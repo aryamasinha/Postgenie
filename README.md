@@ -52,3 +52,7 @@ Integrations  - TBD
 👉 Visit https://postgenie-phi.vercel.app/
 
 👉 Sign up for early access and be among the first to try AI-powered Reel creation and automation.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
