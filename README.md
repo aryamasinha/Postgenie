@@ -33,21 +33,9 @@ Startup founders
 
 Anyone managing multi-platform video content
 
-🛠️ Tech Stack (Optional)
+🛠️ Tech Stack - TBD
 
-Frontend: React / Next.js
-
-Backend: Node.js, Express
-
-Video Rendering: FFmpeg, cloud functions
-
-Auth: Firebase / OAuth2
-
-Hosting: AWS / Vercel
-
-Integrations: 
-
-Meta Graph API, LinkedIn API
+Integrations  - TBD
 
 🚀 Coming Soon
 
