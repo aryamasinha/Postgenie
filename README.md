@@ -10,7 +10,7 @@ No more switching between multiple tools. With Postgenie, content creation and d
 Generate engaging, branded Reels from text, scripts, or blog posts in seconds.
 
 📅 Auto-Publishing
-Schedule or instantly publish videos to Instagram (Business), LinkedIn, TikTok, and Facebook.
+Schedule or instantly publish videos to Instagram (Business), LinkedIn, and Facebook.
 
 🧠 Branding Made Easy
 Auto-apply your logo, colors, font, and layout templates.
