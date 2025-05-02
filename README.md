@@ -49,6 +49,6 @@ Integrations  - TBD
 
 🔗 Get Started
 
-👉 Visit ---
+👉 Visit https://postgenie-phi.vercel.app/
 
 👉 Sign up for early access and be among the first to try AI-powered Reel creation and automation.
