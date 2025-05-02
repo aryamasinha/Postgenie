@@ -22,6 +22,7 @@ View insights on reach, engagement, and performance — in one place.
 Share workflows, get feedback, and manage campaigns with your team.
 
 🌟 Who Is It For?
+
 Content creators & solopreneurs
 
 Marketing agencies
@@ -33,6 +34,7 @@ Startup founders
 Anyone managing multi-platform video content
 
 🛠️ Tech Stack (Optional)
+
 Frontend: React / Next.js
 
 Backend: Node.js, Express
@@ -43,9 +45,12 @@ Auth: Firebase / OAuth2
 
 Hosting: AWS / Vercel
 
-Integrations: Meta Graph API, LinkedIn API, TikTok API
+Integrations: 
+
+Meta Graph API, LinkedIn API
 
 🚀 Coming Soon
+
 🎙️ AI voiceover and avatar integration
 
 📲 Mobile App
@@ -55,6 +60,7 @@ Integrations: Meta Graph API, LinkedIn API, TikTok API
 🧩 Plugin marketplace for templates and transitions
 
 🔗 Get Started
+
 👉 Visit ---
 
 👉 Sign up for early access and be among the first to try AI-powered Reel creation and automation.
